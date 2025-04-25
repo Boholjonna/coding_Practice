@@ -24,3 +24,7 @@ function changeText(button, buttonOldText, newButtonText, elementId, newText) {
     target.innerText = originalText;
   }
 }
+
+
+
+alert('Welcome Visitor'); // this is a small browser that the tab will say
