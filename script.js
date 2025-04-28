@@ -27,4 +27,4 @@ function changeText(button, buttonOldText, newButtonText, elementId, newText) {
 
 
 
-alert('Welcome Visitor'); // this is a small browser that the tab will say
+alert( ) // this is a small browser that the tab will say
